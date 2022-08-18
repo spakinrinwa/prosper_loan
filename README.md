@@ -37,7 +37,8 @@ Factor that affects a Loan Outcome Status are:
  
 From the exploration , we discovered that there is a relationship between DebtToIncomeRatio, BorrowerAPR and the Loan Status. This relationship is explained in Part_II_Explanation files.
 
-**Key Insights for Presentation**
+### **Key Insights for Presentation**
+
 In the explanatory analysis, visualizations that show the relationship between DebtToIncomeRatio, BorrowerAPR and Loan Status will be displayed.
 This will give clearer visuals on the following obervations:
 
