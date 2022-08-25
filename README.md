@@ -35,13 +35,14 @@ Factor that affects a Loan Outcome Status are:
  > **Employment Status**
  The Not employed category of borrowers are more likely to default on the repayment of their Loan.
  
-From the exploration , we discovered that there is a relationship between DebtToIncomeRatio, BorrowerAPR and the Loan Status. This relationship is explained in Part_II_Explanation files.
+
+From the exploration , we discovered that there is a relationship between Employment Status, BorrowerAPR and the Loan Status. This relationship is explained in Part_II_Explanation files.
 
 ### **Key Insights for Presentation**
 
-In the explanatory analysis, visualizations that show the relationship between DebtToIncomeRatio, BorrowerAPR and Loan Status will be displayed.
-This will give clearer visuals on the following obervations:
+In the explanatory analysis, visualizations that show the relationship between Employment Status, BorrowerAPR and Loan Status will be displayed.
+This will give clearer visuals on the following:
 
- - borrowers with lower APR are more likely to complete their loan repayment when compared with the other borrowers
- - Not employed category of borrowers are more likely to default on the repayment of their Loan 
- - high average DebtToIncomeRatio is noticed in LoanStatus outcome categories as Defaulted, PastDue and Chargedoff. 
+ - Loan repayment status in comparison with BorrowerAPR
+ - The employment status of borrowers that are more likely to default on the repayment of their Loan
+
